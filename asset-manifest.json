@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alura-styled-components-master/static/css/main.397c896b.chunk.css",
+    "main.js": "/alura-styled-components-master/static/js/main.b1d6afde.chunk.js",
+    "main.js.map": "/alura-styled-components-master/static/js/main.b1d6afde.chunk.js.map",
+    "runtime-main.js": "/alura-styled-components-master/static/js/runtime-main.cc4cd678.js",
+    "runtime-main.js.map": "/alura-styled-components-master/static/js/runtime-main.cc4cd678.js.map",
+    "static/js/2.b6cb0ab3.chunk.js": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js",
+    "static/js/2.b6cb0ab3.chunk.js.map": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js.map",
+    "index.html": "/alura-styled-components-master/index.html",
+    "precache-manifest.1835fa11a12de7934f218aea54485d4b.js": "/alura-styled-components-master/precache-manifest.1835fa11a12de7934f218aea54485d4b.js",
+    "service-worker.js": "/alura-styled-components-master/service-worker.js",
+    "static/css/main.397c896b.chunk.css.map": "/alura-styled-components-master/static/css/main.397c896b.chunk.css.map",
+    "static/js/2.b6cb0ab3.chunk.js.LICENSE.txt": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js.LICENSE.txt",
+    "static/media/bank_logo.svg": "/alura-styled-components-master/static/media/bank_logo.f3a2bff4.svg",
+    "static/media/dinheiro.svg": "/alura-styled-components-master/static/media/dinheiro.b97c300b.svg",
+    "static/media/olho.svg": "/alura-styled-components-master/static/media/olho.acd41ceb.svg",
+    "static/media/privado.svg": "/alura-styled-components-master/static/media/privado.134d853a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc4cd678.js",
+    "static/js/2.b6cb0ab3.chunk.js",
+    "static/css/main.397c896b.chunk.css",
+    "static/js/main.b1d6afde.chunk.js"
+  ]
+}
