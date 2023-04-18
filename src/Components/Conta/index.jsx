@@ -21,7 +21,7 @@ const Conta = () => {
         </span>
         {toggleState ? (
           <div className="saldo">
-            <span className="detalhe">R$</span> 66,70{" "}
+            <span className="detalhe">R$</span> 11,00{" "}
           </div>
         ) : null}
       </div>
@@ -30,7 +30,7 @@ const Conta = () => {
         <img
           style={{ marginTop: "2px" }}
           className="imagem-icone"
-          src={toggleState ? privado : olho_icone}
+          src={toggleState ? olho_icone : privado}
           alt="Privacidade do Saldo"
         />
       </button>
