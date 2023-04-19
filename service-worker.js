@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alura-styled-components-master/precache-manifest.1835fa11a12de7934f218aea54485d4b.js"
+  "/alura-styled-components-master/precache-manifest.ca3702a27745ef1b4701a4e4caeca214.js"
 );
 
 self.addEventListener('message', (event) => {

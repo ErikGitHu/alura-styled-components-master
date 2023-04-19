@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/alura-styled-components-master/static/css/main.397c896b.chunk.css",
-    "main.js": "/alura-styled-components-master/static/js/main.b1d6afde.chunk.js",
-    "main.js.map": "/alura-styled-components-master/static/js/main.b1d6afde.chunk.js.map",
+    "main.js": "/alura-styled-components-master/static/js/main.5eef2c7e.chunk.js",
+    "main.js.map": "/alura-styled-components-master/static/js/main.5eef2c7e.chunk.js.map",
     "runtime-main.js": "/alura-styled-components-master/static/js/runtime-main.cc4cd678.js",
     "runtime-main.js.map": "/alura-styled-components-master/static/js/runtime-main.cc4cd678.js.map",
     "static/js/2.b6cb0ab3.chunk.js": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js",
     "static/js/2.b6cb0ab3.chunk.js.map": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js.map",
     "index.html": "/alura-styled-components-master/index.html",
-    "precache-manifest.1835fa11a12de7934f218aea54485d4b.js": "/alura-styled-components-master/precache-manifest.1835fa11a12de7934f218aea54485d4b.js",
+    "precache-manifest.ca3702a27745ef1b4701a4e4caeca214.js": "/alura-styled-components-master/precache-manifest.ca3702a27745ef1b4701a4e4caeca214.js",
     "service-worker.js": "/alura-styled-components-master/service-worker.js",
     "static/css/main.397c896b.chunk.css.map": "/alura-styled-components-master/static/css/main.397c896b.chunk.css.map",
     "static/js/2.b6cb0ab3.chunk.js.LICENSE.txt": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.cc4cd678.js",
     "static/js/2.b6cb0ab3.chunk.js",
     "static/css/main.397c896b.chunk.css",
-    "static/js/main.b1d6afde.chunk.js"
+    "static/js/main.5eef2c7e.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d24d58fb437d29bc7d34338c73f51419",
+    "revision": "d8bfef8b11592b995f3927ad10324599",
     "url": "/alura-styled-components-master/index.html"
   },
   {
-    "revision": "8a5f440905592d4f96c7",
+    "revision": "76108ba50a9ec04203a7",
     "url": "/alura-styled-components-master/static/css/main.397c896b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alura-styled-components-master/static/js/2.b6cb0ab3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a5f440905592d4f96c7",
-    "url": "/alura-styled-components-master/static/js/main.b1d6afde.chunk.js"
+    "revision": "76108ba50a9ec04203a7",
+    "url": "/alura-styled-components-master/static/js/main.5eef2c7e.chunk.js"
   },
   {
     "revision": "82e23dc7d5ad1de761a4",
